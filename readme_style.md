@@ -368,6 +368,24 @@ El mismo se aplica con el ingreso de nuevos datos donde se realiza luego del pro
  y se la compara con el modelo.   
 Si la operación no es lo sufientemente correcta se repite el proceso hasta obtener un modelo final del entrenamiento
 
+<br>
+<hr>
+<br>
+
+## Mitos del Machine Learning
+
+### Diferencias entre AI - Machine Learning - Deep Learning
+
+* La inteligencia artificial es el campo que abarca a los otros dos campos. Mientras que Machine Learning abarca el Deep Learning.
+
+<ins><span>AI</span></ins> 
+
+es el area de la ciencias de la computación que enfatiza la creación de máquinas inteligentes que trabajen y reaccionen como humanos
+
+<ins><span>Machine Learning</span></ins> 
+
+es el area de la ciencias de la computación que enfatiza la creación de máquinas inteligentes que trabajen y reaccionen como humanos
+
 </article>
 </body>
 </html>

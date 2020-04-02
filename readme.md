@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<body>
+  <article class="markdown-body">
+
+>>>>>>> 5b2982f0eacbafc3f3f3a36591b3412a3f128ef0
   # Pandas 
 
   - Pandas proviene de 2 terminos: PANel DAta

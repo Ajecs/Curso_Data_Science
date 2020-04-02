@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pandas</title>
-  <link rel="stylesheet" type="text/css" media="all" href="github-markdown.css" />
+  <!-- <link rel="stylesheet" type="text/css" media="all" href="github-markdown.css" /> -->
   <style>
 	.markdown-body {
 		box-sizing: border-box;

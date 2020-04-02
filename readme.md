@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pandas</title>
-  <link rel="stylesheet" type="text/css" media="all" href="github-markdown.css" />
-  <style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-    }
-	}
-    span {
-    color: rgb(16, 192, 39);
-    font-weight: bold;  
-  }
-    .alert{ color: red; }
-</style>
-</head>
-<body>
-  <article class="markdown-body">
-
   # Pandas 
 
   - Pandas proviene de 2 terminos: PANel DAta
@@ -368,9 +338,6 @@ El mismo se aplica con el ingreso de nuevos datos donde se realiza luego del pro
  y se la compara con el modelo.   
 Si la operación no es lo sufientemente correcta se repite el proceso hasta obtener un modelo final del entrenamiento
 
-</article>
-</body>
-</html>
 
 
 
